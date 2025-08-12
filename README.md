@@ -1,1 +1,1 @@
-atient-management-system
+tient-management-system
