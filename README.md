@@ -1,1 +1,1 @@
-management-system
+anagement-system
