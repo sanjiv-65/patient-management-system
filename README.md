@@ -1,1 +1,1 @@
-patient-management-system
+atient-management-system
