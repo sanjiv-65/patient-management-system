@@ -1,1 +1,1 @@
-tient-management-system
+ient-management-system
