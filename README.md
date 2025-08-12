@@ -1,1 +1,1 @@
-anagement-system
+nagement-system
