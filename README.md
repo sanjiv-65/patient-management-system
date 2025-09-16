@@ -1,4 +1,3 @@
-gd
 g
 dg
 dgd
