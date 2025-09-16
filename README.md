@@ -1,4 +1,3 @@
-sg
 fg
 sg
 d
