@@ -1,5 +1,4 @@
-g
-d
+gd
 gd
 g
 d
