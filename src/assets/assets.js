@@ -103,16 +103,16 @@ export const doctors = [
     },
     {
         _id: 'doc2',
-        name: 'Dr. Emily Larson',
+        name: 'Dr. Parinita',
         image: doc2,
         speciality: 'Gynecologist',
-        degree: 'MBBS',
+        degree: 'DNB (Obstetrics & Gynecology), MD - Obstetrtics & Gynaecology, MBBS Delhi',
         experience: '3 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
-        fees: 60,
+        about: 'Dr. Parinita is an experienced Gynaecologist in Madhu Vihar, Delhi. He has helped numerous patients in his 36 years of experience as a Gynaecologist. He has done DNB (Obstetrics & Gynecology), MD - Obstetrtics & Gynaecology, MBBS . You can visit him at Astha Gynae Clinic in Madhu Vihar, Delhi. He has earned excellent reviews by 11 patients. You can book an instant appointment online with Dr. Parinita on Lybrate.com.',
+        fees: 700,
         address: {
-            line1: '27th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: 'C-18, Sai Chowk, Madhu Vihar',
+            line2: 'Patparganj, Landmark : Near IP Extension'
         }
     },
     {
@@ -187,16 +187,16 @@ export const doctors = [
     },
     {
         _id: 'doc8',
-        name: 'Dr. Timothy White',
+        name: 'Dr. Urvashi Jha',
         image: doc8,
         speciality: 'Gynecologist',
-        degree: 'MBBS',
-        experience: '3 Years',
+        degree: 'MD - Obstetrtics & Gynaecology , Lady Hardinge Medical College, New Delhi , 1980 FRCOG (LONDON) (Fellow of Royal College of Obstetricians and Gynaecologists) , Royal College of Obstetricians and Gynaecologists, London , 1987 MBBS , Lady Hardinge Medical College, New Delhi, , 1975',
+        experience: '50 Years',
         about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
-        fees: 60,
+        fees: 300,
         address: {
-            line1: '27th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: 'E-24, Ring Road, Block E',
+            line2: 'Defence Colony, Landmark: Near Amity Institute Defence Colony'
         }
     },
     {
@@ -271,16 +271,16 @@ export const doctors = [
     },
     {
         _id: 'doc14',
-        name: 'Dr. Ryan Martinez',
+        name: 'Dr. Pranay Ghosh',
         image: doc14,
         speciality: 'Gynecologist',
         degree: 'MBBS',
-        experience: '3 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
-        fees: 60,
+        experience: '19 Years',
+        about: 'MBBS , Maulana Azad Medical College, New Delhi, , 2006 MS - Obstetrics and Gynaecology , Maulana Azad Medical College, New Delhi, , 2010 Diploma in Minimal Access Surgery , World Association of Laparoscopic Surgeons (WALS), , 2010 M.Med.Sci (ART) , University of Nottingham, United Kingdom, , 2012 Specialist Training in Reproductive Medicine , National University Hospital, Singapore, , 2013 Fellowship in Minimal Access Surgery , World Laparoscopy Hospital, Gurgaon, NCR, New Delhi, , 2014',
+        fees: 1100,
         address: {
-            line1: '27th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: '5, Vardhaman Royal Plaza',
+            line2: 'LSC Gujranwala Town 1 Block B'
         }
     },
     {
